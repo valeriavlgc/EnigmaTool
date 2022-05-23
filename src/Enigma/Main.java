@@ -7,6 +7,8 @@ public class Main {
 
 	public static void main(String args[]) {
 		
+//My changes
+
 		int pseudoRandomNumber = 9;
 		
 		CypherTool cypherTool = new CypherTool(pseudoRandomNumber, setRotors());
